@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  position: absolute;
+  width: 800px;
+  height: 600px;
+  background-color: pink;
+}
+
+#left {
+  float: left;
+  width: 200px;
+}
+
+#right {
+  margin-left: 200px;
+  width: 400px;
+}
